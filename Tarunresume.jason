@@ -1,0 +1,79 @@
+{
+    "basics": {
+        "name": "Tarun Kumar",
+        "label": "Student",
+        "picture": ,
+        "email": "2021kuec2050@iiitkota.ac.in",
+        "phone": "+919027726789",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics and Communiction engineering.  
+            "address": "Bareilly",
+            "postalCode": "243006",
+            "city": "Bareilly",
+            "countryCode": " India",
+            "region": "Uttar Pradesh"
+        },
+        "profiles": [
+           
+        ]
+    },
+    "work": [
+       "
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "8.4",
+            "courses": [
+                "Electronics and Communication"
+            ]
+        }
+    ],
+    "awards": [
+      
+    ],
+    "publications": [
+       
+    ],
+    "skills": [
+        {
+            "name": "Full Stack Development",
+            "level": "Master",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript"
+                "C/C++",
+                "Wordpress",
+               
+            ]
+        }
+
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Singing",
+            "keywords": [
+                "Guitar"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Chess",
+                "Badminton"
+            ]
+        }
+    ]
+}
